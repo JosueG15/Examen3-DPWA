@@ -1,0 +1,141 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\JOSUEP\\Downloads\\blazor-workshop-main\\src\\BlazingPizza.Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\JOSUEP\\Downloads\\blazor-workshop-main\\src\\BlazingPizza.Client\\obj\\Debug\\net7.0\\compressed\\myr02ru3kn.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\JOSUEP\\Downloads\\blazor-workshop-main\\src\\BlazingPizza.Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JOSUEP\\Downloads\\blazor-workshop-main\\src\\BlazingPizza.Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JOSUEP\\Downloads\\blazor-workshop-main\\src\\BlazingPizza.Client\\wwwroot\\css\\font\\quicksand-v8-latin-300.woff",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-300.woff"
+    },
+    {
+      "Id": "C:\\Users\\JOSUEP\\Downloads\\blazor-workshop-main\\src\\BlazingPizza.Client\\wwwroot\\css\\font\\quicksand-v8-latin-300.woff2",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-300.woff2"
+    },
+    {
+      "Id": "C:\\Users\\JOSUEP\\Downloads\\blazor-workshop-main\\src\\BlazingPizza.Client\\wwwroot\\css\\font\\quicksand-v8-latin-500.woff",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-500.woff"
+    },
+    {
+      "Id": "C:\\Users\\JOSUEP\\Downloads\\blazor-workshop-main\\src\\BlazingPizza.Client\\wwwroot\\css\\font\\quicksand-v8-latin-500.woff2",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-500.woff2"
+    },
+    {
+      "Id": "C:\\Users\\JOSUEP\\Downloads\\blazor-workshop-main\\src\\BlazingPizza.Client\\wwwroot\\css\\font\\quicksand-v8-latin-700.woff",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-700.woff"
+    },
+    {
+      "Id": "C:\\Users\\JOSUEP\\Downloads\\blazor-workshop-main\\src\\BlazingPizza.Client\\wwwroot\\css\\font\\quicksand-v8-latin-700.woff2",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-700.woff2"
+    },
+    {
+      "Id": "C:\\Users\\JOSUEP\\Downloads\\blazor-workshop-main\\src\\BlazingPizza.Client\\wwwroot\\css\\font\\quicksand-v8-latin-regular.woff",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\JOSUEP\\Downloads\\blazor-workshop-main\\src\\BlazingPizza.Client\\wwwroot\\css\\font\\quicksand-v8-latin-regular.woff2",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\JOSUEP\\Downloads\\blazor-workshop-main\\src\\BlazingPizza.Client\\wwwroot\\css\\font\\quicksand.css",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand.css"
+    },
+    {
+      "Id": "C:\\Users\\JOSUEP\\Downloads\\blazor-workshop-main\\src\\BlazingPizza.Client\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\JOSUEP\\Downloads\\blazor-workshop-main\\src\\BlazingPizza.Client\\wwwroot\\img\\bike.svg",
+      "PackagePath": "staticwebassets\\img\\bike.svg"
+    },
+    {
+      "Id": "C:\\Users\\JOSUEP\\Downloads\\blazor-workshop-main\\src\\BlazingPizza.Client\\wwwroot\\img\\icon-512.png",
+      "PackagePath": "staticwebassets\\img\\icon-512.png"
+    },
+    {
+      "Id": "C:\\Users\\JOSUEP\\Downloads\\blazor-workshop-main\\src\\BlazingPizza.Client\\wwwroot\\img\\logo.svg",
+      "PackagePath": "staticwebassets\\img\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\JOSUEP\\Downloads\\blazor-workshop-main\\src\\BlazingPizza.Client\\wwwroot\\img\\pizza-slice.svg",
+      "PackagePath": "staticwebassets\\img\\pizza-slice.svg"
+    },
+    {
+      "Id": "C:\\Users\\JOSUEP\\Downloads\\blazor-workshop-main\\src\\BlazingPizza.Client\\wwwroot\\img\\pizzas\\bacon.jpg",
+      "PackagePath": "staticwebassets\\img\\pizzas\\bacon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\JOSUEP\\Downloads\\blazor-workshop-main\\src\\BlazingPizza.Client\\wwwroot\\img\\pizzas\\brit.jpg",
+      "PackagePath": "staticwebassets\\img\\pizzas\\brit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\JOSUEP\\Downloads\\blazor-workshop-main\\src\\BlazingPizza.Client\\wwwroot\\img\\pizzas\\cheese.jpg",
+      "PackagePath": "staticwebassets\\img\\pizzas\\cheese.jpg"
+    },
+    {
+      "Id": "C:\\Users\\JOSUEP\\Downloads\\blazor-workshop-main\\src\\BlazingPizza.Client\\wwwroot\\img\\pizzas\\margherita.jpg",
+      "PackagePath": "staticwebassets\\img\\pizzas\\margherita.jpg"
+    },
+    {
+      "Id": "C:\\Users\\JOSUEP\\Downloads\\blazor-workshop-main\\src\\BlazingPizza.Client\\wwwroot\\img\\pizzas\\meaty.jpg",
+      "PackagePath": "staticwebassets\\img\\pizzas\\meaty.jpg"
+    },
+    {
+      "Id": "C:\\Users\\JOSUEP\\Downloads\\blazor-workshop-main\\src\\BlazingPizza.Client\\wwwroot\\img\\pizzas\\mushroom.jpg",
+      "PackagePath": "staticwebassets\\img\\pizzas\\mushroom.jpg"
+    },
+    {
+      "Id": "C:\\Users\\JOSUEP\\Downloads\\blazor-workshop-main\\src\\BlazingPizza.Client\\wwwroot\\img\\pizzas\\pepperoni.jpg",
+      "PackagePath": "staticwebassets\\img\\pizzas\\pepperoni.jpg"
+    },
+    {
+      "Id": "C:\\Users\\JOSUEP\\Downloads\\blazor-workshop-main\\src\\BlazingPizza.Client\\wwwroot\\img\\pizzas\\salad.jpg",
+      "PackagePath": "staticwebassets\\img\\pizzas\\salad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\JOSUEP\\Downloads\\blazor-workshop-main\\src\\BlazingPizza.Client\\wwwroot\\img\\user.svg",
+      "PackagePath": "staticwebassets\\img\\user.svg"
+    },
+    {
+      "Id": "C:\\Users\\JOSUEP\\Downloads\\blazor-workshop-main\\src\\BlazingPizza.Client\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\JOSUEP\\Downloads\\blazor-workshop-main\\src\\BlazingPizza.Client\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\JOSUEP\\Downloads\\blazor-workshop-main\\src\\BlazingPizza.Client\\wwwroot\\service-worker.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BlazingPizza.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BlazingPizza.Client.props",
+      "PackagePath": "build\\BlazingPizza.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazingPizza.Client.props",
+      "PackagePath": "buildMultiTargeting\\BlazingPizza.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BlazingPizza.Client.props",
+      "PackagePath": "buildTransitive\\BlazingPizza.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

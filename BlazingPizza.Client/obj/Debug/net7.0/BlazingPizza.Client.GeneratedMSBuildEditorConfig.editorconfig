@@ -1,0 +1,79 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = BlazingPizza.Client
+build_property.RootNamespace = BlazingPizza.Client
+build_property.ProjectDir = C:\Users\JOSUEP\Downloads\blazor-workshop-main\src\BlazingPizza.Client\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\JOSUEP\Downloads\blazor-workshop-main\src\BlazingPizza.Client
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/JOSUEP/Downloads/blazor-workshop-main/src/BlazingPizza.Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSUEP/Downloads/blazor-workshop-main/src/BlazingPizza.Client/Pages/Authentication.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGljYXRpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSUEP/Downloads/blazor-workshop-main/src/BlazingPizza.Client/Pages/Checkout.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSUEP/Downloads/blazor-workshop-main/src/BlazingPizza.Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSUEP/Downloads/blazor-workshop-main/src/BlazingPizza.Client/Pages/MyOrders.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlPcmRlcnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSUEP/Downloads/blazor-workshop-main/src/BlazingPizza.Client/Pages/OrderDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJEZXRhaWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSUEP/Downloads/blazor-workshop-main/src/BlazingPizza.Client/Shared/AddressEditor.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEFkZHJlc3NFZGl0b3IucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSUEP/Downloads/blazor-workshop-main/src/BlazingPizza.Client/Shared/ConfiguredPizzaItem.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbmZpZ3VyZWRQaXp6YUl0ZW0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSUEP/Downloads/blazor-workshop-main/src/BlazingPizza.Client/Shared/ConfigurePizzaDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbmZpZ3VyZVBpenphRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSUEP/Downloads/blazor-workshop-main/src/BlazingPizza.Client/Shared/LoginDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luRGlzcGxheS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSUEP/Downloads/blazor-workshop-main/src/BlazingPizza.Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSUEP/Downloads/blazor-workshop-main/src/BlazingPizza.Client/Shared/OrderReview.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE9yZGVyUmV2aWV3LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSUEP/Downloads/blazor-workshop-main/src/BlazingPizza.Client/Shared/RedirectToLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFJlZGlyZWN0VG9Mb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSUEP/Downloads/blazor-workshop-main/src/BlazingPizza.Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
