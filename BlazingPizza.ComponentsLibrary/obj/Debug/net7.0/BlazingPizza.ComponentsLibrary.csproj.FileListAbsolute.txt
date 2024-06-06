@@ -19,3 +19,4 @@ C:\Users\JOSUEP\Downloads\blazor-workshop-main\src\BlazingPizza.ComponentsLibrar
 C:\Users\JOSUEP\Downloads\blazor-workshop-main\src\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\refint\BlazingPizza.ComponentsLibrary.dll
 C:\Users\JOSUEP\Downloads\blazor-workshop-main\src\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\BlazingPizza.ComponentsLibrary.pdb
 C:\Users\JOSUEP\Downloads\blazor-workshop-main\src\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\ref\BlazingPizza.ComponentsLibrary.dll
+C:\Users\JOSUEP\Downloads\blazor-workshop-main\src\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\BlazingPizza.ComponentsLibrary.sourcelink.json

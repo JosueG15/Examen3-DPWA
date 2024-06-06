@@ -18,3 +18,4 @@ C:\Users\JOSUEP\Downloads\blazor-workshop-main\src\BlazingComponents\obj\Debug\n
 C:\Users\JOSUEP\Downloads\blazor-workshop-main\src\BlazingComponents\obj\Debug\net7.0\refint\BlazingComponents.dll
 C:\Users\JOSUEP\Downloads\blazor-workshop-main\src\BlazingComponents\obj\Debug\net7.0\BlazingComponents.pdb
 C:\Users\JOSUEP\Downloads\blazor-workshop-main\src\BlazingComponents\obj\Debug\net7.0\ref\BlazingComponents.dll
+C:\Users\JOSUEP\Downloads\blazor-workshop-main\src\BlazingComponents\obj\Debug\net7.0\BlazingComponents.sourcelink.json

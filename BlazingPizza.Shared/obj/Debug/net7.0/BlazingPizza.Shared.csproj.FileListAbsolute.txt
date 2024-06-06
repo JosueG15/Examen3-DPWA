@@ -14,3 +14,4 @@ C:\Users\JOSUEP\Downloads\blazor-workshop-main\src\BlazingPizza.Shared\obj\Debug
 C:\Users\JOSUEP\Downloads\blazor-workshop-main\src\BlazingPizza.Shared\obj\Debug\net7.0\refint\BlazingPizza.Shared.dll
 C:\Users\JOSUEP\Downloads\blazor-workshop-main\src\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.pdb
 C:\Users\JOSUEP\Downloads\blazor-workshop-main\src\BlazingPizza.Shared\obj\Debug\net7.0\ref\BlazingPizza.Shared.dll
+C:\Users\JOSUEP\Downloads\blazor-workshop-main\src\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.sourcelink.json

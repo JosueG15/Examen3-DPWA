@@ -859,3 +859,4 @@ C:\Users\JOSUEP\Downloads\blazor-workshop-main\src\BlazingPizza.Client\obj\Debug
 C:\Users\JOSUEP\Downloads\blazor-workshop-main\src\BlazingPizza.Client\obj\Debug\net7.0\refint\BlazingPizza.Client.dll
 C:\Users\JOSUEP\Downloads\blazor-workshop-main\src\BlazingPizza.Client\obj\Debug\net7.0\BlazingPizza.Client.pdb
 C:\Users\JOSUEP\Downloads\blazor-workshop-main\src\BlazingPizza.Client\obj\Debug\net7.0\ref\BlazingPizza.Client.dll
+C:\Users\JOSUEP\Downloads\blazor-workshop-main\src\BlazingPizza.Client\obj\Debug\net7.0\BlazingPizza.Client.sourcelink.json

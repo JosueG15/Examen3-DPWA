@@ -111,3 +111,4 @@ C:\Users\JOSUEP\Downloads\blazor-workshop-main\src\BlazingPizza.Server\obj\Debug
 C:\Users\JOSUEP\Downloads\blazor-workshop-main\src\BlazingPizza.Server\obj\Debug\net7.0\BlazingPizza.Server.pdb
 C:\Users\JOSUEP\Downloads\blazor-workshop-main\src\BlazingPizza.Server\obj\Debug\net7.0\BlazingPizza.Server.genruntimeconfig.cache
 C:\Users\JOSUEP\Downloads\blazor-workshop-main\src\BlazingPizza.Server\obj\Debug\net7.0\ref\BlazingPizza.Server.dll
+C:\Users\JOSUEP\Downloads\blazor-workshop-main\src\BlazingPizza.Server\obj\Debug\net7.0\BlazingPizza.Server.sourcelink.json
